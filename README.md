@@ -8,7 +8,7 @@
 https://cloud.tencent.com/developer/article/1871020
 
 微信: 數據大宇宙
-
+QQ群: 704020629
 
 
 python 3.6 或以上
